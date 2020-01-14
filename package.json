@@ -1,0 +1,19 @@
+{
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "ava": "^2.4.0",
+    "jest": "^24.9.0"
+  },
+  "dependencies": {
+    "chai": "^4.2.0",
+    "mathlib": "^0.7.3"
+  },
+  "name": "jest",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
